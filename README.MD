@@ -1,11 +1,3 @@
-# Gemini 2.0 PlayGround 
-# Gemini 2.0 游乐场
-
-# [English Version](README_EN.MD)
-
-### 作者：技术爬爬虾
-B站，YouTube，抖音，公众号 全网同名。转载请注明作者。
-
 ## 项目简介
 #### Demo: [https://play.210718.xyz](https://play.210718.xyz)
 只需准备一个Gemini API Key，10秒即可部署一个Gemini多模态对话的网站。
